@@ -1,0 +1,6 @@
+name = input('enter your name : ')
+print('My name is '+ name)
+school= input('Enter your school name : ')
+print('My school name is '+ school)
+village = input('Enter your village name : ')
+print('I am from ' + village)

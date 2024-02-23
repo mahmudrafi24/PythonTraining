@@ -1,0 +1,5 @@
+my_tuple = ('p','y','t','h','o','n','t','r','a','i')
+print(my_tuple[1:4])  
+print(my_tuple[:-7]) 
+print(my_tuple[7:]) 
+print(my_tuple[:])

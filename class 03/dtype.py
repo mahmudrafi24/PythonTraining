@@ -1,0 +1,10 @@
+num=10
+print(type(num))
+num=10.5
+print(num,type(num))
+num=3+5j
+print(num,type(num))
+num="ABDC"
+print(num,type(num))
+num=True
+print(num,type(num))
